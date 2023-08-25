@@ -1,10 +1,9 @@
-# CoinWise
-Coin Wise foi um aplicativo que desenvolvemos durante um Hack Sprint dentro da comunidade DevSpace.
-Esse apllicativo foi desenvolvido para aperfeiçoamento de nossos conhecimentos em um ambiente de estudo e ganho de experiencia em trabalho em equipe.
+# Coin Wise
+Coin Wise foi um aplicativo desenvolvido durante a HackSprint #1, dentro da comunidade DevSpace. Esse apllicativo foi desenvolvido para aperfeiçoamento de nossos conhecimentos em um ambiente de estudo e ganho de experiencia em trabalho em equipe.
 
-A aplicação tem como objetivo apresentar o valor atual de mercado da moeda selecionada(atualmente apresentando dados apenas do BITCoin) em um gráfico interativo com o usuário, assim como apresentar a variação do mercado comparando com o dia anterior.
+A aplicação tem como objetivo apresentar informações sobre o valor atual de mercado do Bitcoin e seu histórico, na forme de gráficos interativos com o usuário, texto das estatísticas e indicadores de variação do valor.
 
-
+Além de aprimorar as habilidades técnicas, o app desenvolvido durante a HackSprint permitiu aprimorar também habilidades interpessoais, uma vez que a metodologia de trabalho utilizada foi a Scrum, contando com reuniões diárias (daily), organização das tarefas em quadro Kanban, revisão de código e programação em pares.
 
 
 ## :camera_flash: Screenshots
@@ -13,49 +12,33 @@ A aplicação tem como objetivo apresentar o valor atual de mercado da moeda sel
 
 ## Tecnologias
 * Kotlin
-* Activity para host de telas
-* ViewGroup
-    * View Model
+* ViewGroups
+    * ViewModel
     * ConstraintLayout
     * SwipeRefreshLayout
-    * LinearLayout      
 - Components de UI
     - Fragments 
-    - TextView
-    - ImageView
-    - RadioGroup
-    - RadioButton
-    - LineChart
+    - RadioGroup e RadioButtons
+    - LineChart (da biblioteca MPAndroidCharts)
     - FragmentContainerView
-    - Styles
-    - Themes Dark and Ligth
-    - Empty state and Error
+    - Aplicação de Styles
+    - Temas Dark and Light
+    - Ícone
+    - Apresentação de estados de erro e de vazio
 - Toast para display de mensagens
-- Intent Explicita para abrir a segunda Activity
-- CompanionObject para abrir os Fragments
-- FindViewById para recuperar components de UI
 - Splash Screen
-- Icon
-- Functions
-- Modo OffLine
-- ROOM Data Base
-- API Connection
-- Retrofit
+- Modo offline com ROOM
+- Requisições API RESTful com Retrofit
 
 * Architecture
    - MVVM
 
 
-
-## Authors
+## Autores
 Giovanna Reis (follow me on [LinkedIn](https://www.linkedin.com/in/giovanna-reis-3023a5207))
-
 Samuel Rocha Gil (follow me on [LinkedIn](https://www.linkedin.com/in/samuel-dos-santos-gil-a1ab852a/))
-
 Victor Boico (follow me on [LinkedIn](https://www.linkedin.com/in/victor-boico-a13560269/))
-
 Vinicius Costa (follow me on [LinkedIn](https://www.linkedin.com/in/vinicius-costa-aa4627285/))
-
 Vitor Branco (follow me on [LinkedIn](https://br.linkedin.com/in/vitor-xatara-branco))
 
 ## License
