@@ -8,7 +8,7 @@ Além de aprimorar as habilidades técnicas, o app desenvolvido durante a HackSp
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="/result/splashScreenLigthMode.png" width="260">&emsp;<img src="/result/graphicLigthMode.png" width="260">&emsp;<img src="/result/graphicLigthModeDetail.png" width="260">&emsp;<img src="/result/splachScreenDarkMode.png" width="260">;<img src="/result/graphicDarkMode.png" width="260">
+<img src="/result/splashScreenLigthMode.png" width="260">&emsp;<img src="/result/graphicLigthModeDetail.png" width="260">&emsp;<img src="/result/graphicDarkMode.png" width="260">
 
 ## Tecnologias
 * Kotlin
