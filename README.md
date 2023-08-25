@@ -1,7 +1,7 @@
 # Coin Wise
 Coin Wise foi um aplicativo desenvolvido durante a HackSprint #1, dentro da comunidade DevSpace. Esse apllicativo foi desenvolvido para aperfeiçoamento de nossos conhecimentos em um ambiente de estudo e ganho de experiencia em trabalho em equipe.
 
-A aplicação tem como objetivo apresentar informações sobre o valor atual de mercado do Bitcoin e seu histórico, na forme de gráficos interativos com o usuário, texto das estatísticas e indicadores de variação do valor.
+A aplicação tem como objetivo apresentar informações sobre o valor atual de mercado do Bitcoin e seu histórico, na forma de gráficos interativos com o usuário, texto das estatísticas e indicadores de variação do valor.
 
 Além de aprimorar as habilidades técnicas, o app desenvolvido durante a HackSprint permitiu aprimorar também habilidades interpessoais, uma vez que a metodologia de trabalho utilizada foi a Scrum, contando com reuniões diárias (daily), organização das tarefas em quadro Kanban, revisão de código e programação em pares.
 
