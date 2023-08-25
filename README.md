@@ -36,9 +36,13 @@ Além de aprimorar as habilidades técnicas, o app desenvolvido durante a HackSp
 
 ## Autores
 Giovanna Reis (follow me on [LinkedIn](https://www.linkedin.com/in/giovanna-reis-3023a5207))
+
 Samuel Rocha Gil (follow me on [LinkedIn](https://www.linkedin.com/in/samuel-dos-santos-gil-a1ab852a/))
+
 Victor Boico (follow me on [LinkedIn](https://www.linkedin.com/in/victor-boico-a13560269/))
+
 Vinicius Costa (follow me on [LinkedIn](https://www.linkedin.com/in/vinicius-costa-aa4627285/))
+
 Vitor Branco (follow me on [LinkedIn](https://br.linkedin.com/in/vitor-xatara-branco))
 
 ## License
